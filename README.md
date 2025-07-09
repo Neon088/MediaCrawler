@@ -1,30 +1,30 @@
 # 🔥 MediaCrawler - 自媒体平台爬虫 🕷️
 
-<div align="center">
+<=>
 
-<a href="https://trendshift.io/repositories/8291" target="_blank">
-  <img src="https://trendshift.io/api/badge/repositories/8291" alt="NanmiCoder%2FMediaCrawler | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/>
-</a>
+<= =>
+  <= = =": ; : ;" = =/>
+</>
 
-[![GitHub Stars](https://img.shields.io/github/stars/NanmiCoder/MediaCrawler?style=social)](https://github.com/NanmiCoder/MediaCrawler/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/NanmiCoder/MediaCrawler?style=social)](https://github.com/NanmiCoder/MediaCrawler/network/members)
-[![GitHub Issues](https://img.shields.io/github/issues/NanmiCoder/MediaCrawler)](https://github.com/NanmiCoder/MediaCrawler/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/NanmiCoder/MediaCrawler)](https://github.com/NanmiCoder/MediaCrawler/pulls)
-[![License](https://img.shields.io/github/license/NanmiCoder/MediaCrawler)](https://github.com/NanmiCoder/MediaCrawler/blob/main/LICENSE)
-[![中文](https://img.shields.io/badge/🇨🇳_中文-当前-blue)](README.md)
-[![English](https://img.shields.io/badge/🇺🇸_English-Available-green)](README_en.md)
-[![Español](https://img.shields.io/badge/🇪🇸_Español-Available-green)](README_es.md)
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
+[![中文](https://img.shields.io/badge/🇨🇳_中文-当前-blue)]()
+[![]()]()
+[![]()]()
 </div>
 
 
 
 > **免责声明：**
 > 
-> 大家请以学习为目的使用本仓库⚠️⚠️⚠️⚠️，[爬虫违法违规的案件](https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China)  <br>
+> 大家请以学习为目的使用本仓库⚠️⚠️⚠️⚠️，[爬虫违法违规的案件]()  <br>
 >
 >本仓库的所有内容仅供学习和参考之用，禁止用于商业用途。任何人或组织不得将本仓库的内容用于非法用途或侵犯他人合法权益。本仓库所涉及的爬虫技术仅用于学习和研究，不得用于对其他平台进行大规模爬虫或其他非法行为。对于因使用本仓库内容而引起的任何法律责任，本仓库不承担任何责任。使用本仓库的内容即表示您同意本免责声明的所有条款和条件。
 >
-> 点击查看更为详细的免责声明。[点击跳转](#disclaimer)
+> 点击查看更为详细的免责声明。[点击跳转]()
 
 
 
@@ -35,7 +35,7 @@
 
 ### 🔧 技术原理
 
-- **核心技术**：基于 [Playwright](https://playwright.dev/) 浏览器自动化框架登录保存登录态
+- **核心技术**：基于 []() 浏览器自动化框架登录保存登录态
 - **无需JS逆向**：利用保留登录态的浏览器上下文环境，通过 JS 表达式获取签名参数
 - **优势特点**：无需逆向复杂的加密算法，大幅降低技术门槛
 
@@ -51,14 +51,14 @@
 | 知乎   | ✅          | ✅              | ✅        | ✅              | ✅          | ✅        | ✅              |
 
 
-<details id="pro-version">
+<details =>
 <summary>🔗 <strong>🚀 MediaCrawlerPro 重磅发布！更多的功能，更好的架构设计！</strong></summary>
 
 ### 🚀 MediaCrawlerPro 重磅发布！
 
 > 专注于学习成熟项目的架构设计，不仅仅是爬虫技术，Pro 版本的代码设计思路同样值得深入学习！
 
-[MediaCrawlerPro](https://github.com/MediaCrawlerPro) 相较于开源版本的核心优势：
+[]() 相较于开源版本的核心优势：
 
 #### 🎯 核心功能升级
 - ✅ **断点续爬功能**（重点特性）
@@ -76,7 +76,7 @@
 - ✅ **多平台首页信息流推荐**（HomeFeed）
 - [ ] **基于自媒体平台的AI Agent正在开发中 🚀🚀**
 
-点击查看：[MediaCrawlerPro 项目主页](https://github.com/MediaCrawlerPro) 更多介绍
+点击查看：[]() 更多介绍
 </details>
 
 ## 🚀 快速开始
@@ -85,41 +85,41 @@
 
 ## 📋 前置依赖
 
-### 🚀 uv 安装（推荐）
+###
 
 在进行下一步操作之前，请确保电脑上已经安装了 uv：
 
-- **安装地址**：[uv 官方安装指南](https://docs.astral.sh/uv/getting-started/installation)
-- **验证安装**：终端输入命令 `uv --version`，如果正常显示版本号，证明已经安装成功
+- **安装地址**：[uv 官方安装指南]()
+- **验证安装**：终端输入命令 ``，如果正常显示版本号，证明已经安装成功
 - **推荐理由**：uv 是目前最强的 Python 包管理工具，速度快、依赖解析准确
 
-### 🟢 Node.js 安装
+###
 
 项目依赖 Node.js，请前往官网下载安装：
 
 - **下载地址**：https://nodejs.org/en/download/
 - **版本要求**：>= 16.0.0
 
-### 📦 Python 包安装
+###
 
 ```shell
 # 进入项目目录
 cd MediaCrawler
 
 # 使用 uv sync 命令来保证 python 版本和相关依赖包的一致性
-uv sync
+
 ```
 
 ### 🌐 浏览器驱动安装
 
 ```shell
 # 安装浏览器驱动
-uv run playwright install
+
 ```
 
 > **💡 提示**：MediaCrawler 目前已经支持使用 playwright 连接你本地的 Chrome 浏览器了，一些因为 Webdriver 导致的问题迎刃而解了。
 >
-> 目前开放了 `xhs` 和 `dy` 这两个使用 CDP 的方式连接本地浏览器，如有需要，查看 `config/base_config.py` 中的配置项。
+> 目前开放了 `` 和 `` 这两个使用 CDP 的方式连接本地浏览器，如有需要，查看 `` 中的配置项。
 
 ## 🚀 运行爬虫程序
 
@@ -128,15 +128,15 @@ uv run playwright install
 # 一些其他支持项，也可以在 config/base_config.py 查看功能，写的有中文注释
 
 # 从配置文件中读取关键词搜索相关的帖子并爬取帖子信息与评论
-uv run main.py --platform xhs --lt qrcode --type search
+
 
 # 从配置文件中读取指定的帖子ID列表获取指定帖子的信息与评论信息
-uv run main.py --platform xhs --lt qrcode --type detail
+
 
 # 打开对应APP扫二维码登录
 
 # 其他平台爬虫使用示例，执行下面的命令查看
-uv run main.py --help
+
 ```
 
 <details>
@@ -144,7 +144,7 @@ uv run main.py --help
 
 #### 创建并激活 Python 虚拟环境
 
-> 如果是爬取抖音和知乎，需要提前安装 nodejs 环境，版本大于等于：`16` 即可
+> 如果是爬取抖音和知乎，需要提前安装 nodejs 环境，版本大于等于：`` 即可
 
 ```shell
 # 进入项目根目录
@@ -153,7 +153,7 @@ cd MediaCrawler
 # 创建虚拟环境
 # 我的 python 版本是：3.9.6，requirements.txt 中的库是基于这个版本的
 # 如果是其他 python 版本，可能 requirements.txt 中的库不兼容，需自行解决
-python -m venv venv
+
 
 # macOS & Linux 激活虚拟环境
 source venv/bin/activate
@@ -184,7 +184,7 @@ playwright install
 python main.py --platform xhs --lt qrcode --type search
 
 # 从配置文件中读取指定的帖子ID列表获取指定帖子的信息与评论信息
-python main.py --platform xhs --lt qrcode --type detail
+
 
 # 打开对应APP扫二维码登录
 
@@ -199,14 +199,14 @@ python main.py --help
 
 支持多种数据存储方式：
 
-- **MySQL 数据库**：支持关系型数据库 MySQL 中保存（需要提前创建数据库）
-  - 执行 `python db.py` 初始化数据库表结构（只在首次执行）
+- ****：支持关系型数据库 MySQL 中保存（需要提前创建数据库）
+  - 执行 `` 初始化数据库表结构（只在首次执行）
 - **CSV 文件**：支持保存到 CSV 中（`data/` 目录下）
 - **JSON 文件**：支持保存到 JSON 中（`data/` 目录下）
 
 ---
 
-[🚀 MediaCrawlerPro 重磅发布 🚀！更多的功能，更好的架构设计！](https://github.com/MediaCrawlerPro)
+[🚀 MediaCrawlerPro 重磅发布 🚀！更多的功能，更好的架构设计！]()
 
 ## 🤝 社区与支持
 
@@ -214,20 +214,20 @@ python main.py --help
 - **微信交流群**：[点击加入](https://nanmicoder.github.io/MediaCrawler/%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4.html)
 
 ### 📚 文档与教程
-- **在线文档**：[MediaCrawler 完整文档](https://nanmicoder.github.io/MediaCrawler/)
-- **爬虫教程**：[CrawlerTutorial 免费教程](https://github.com/NanmiCoder/CrawlerTutorial)
+- **在线文档**：[MediaCrawler 完整文档]()
+- **爬虫教程**：[CrawlerTutorial 免费教程]()
   
 
 # 其他常见问题可以查看在线文档
 > 
 > 在线文档包含使用方法、常见问题、加入项目交流群等。
-> [MediaCrawler在线文档](https://nanmicoder.github.io/MediaCrawler/)
+> [MediaCrawler在线文档]()
 > 
 
 # 作者提供的知识服务
 > 如果想快速入门和学习该项目的使用、源码架构设计等、学习编程技术、亦或者想了解MediaCrawlerPro的源代码设计可以看下我的知识付费栏目。
 
-[作者的知识付费栏目介绍](https://nanmicoder.github.io/MediaCrawler/%E7%9F%A5%E8%AF%86%E4%BB%98%E8%B4%B9%E4%BB%8B%E7%BB%8D.html)
+[作者的知识付费栏目介绍]()
 
 
 ---
@@ -236,39 +236,30 @@ python main.py --help
 
 如果这个项目对您有帮助，请给个 ⭐ Star 支持一下，让更多的人看到 MediaCrawler！
 
-[![Star History Chart](https://api.star-history.com/svg?repos=NanmiCoder/MediaCrawler&type=Date)](https://star-history.com/#NanmiCoder/MediaCrawler&Date)
-
-### 💰 赞助商展示
-
-<a href="https://www.swiftproxy.net/?ref=nanmi">
-<img src="docs/static/images/img_5.png">
-<br>
-**Swiftproxy** - 90M+ 全球高质量纯净住宅IP，注册可领免费 500MB 测试流量，动态流量不过期！
-> 专属折扣码：**GHB5** 立享九折优惠！
-</a>
+[![]()]()
 
 <br><br>
 
-<a href="https://sider.ai/ad-land-redirect?source=github&p1=mi&p2=kk">**Sider** - 全网最火的 ChatGPT 插件，体验拉满！</a>
+<a =&&>**** - 全网最火的 ChatGPT 插件，体验拉满！</a>
 
 ### 🤝 成为赞助者
 
 成为赞助者，可以将您的产品展示在这里，每天获得大量曝光！
 
 **联系方式**：
-- 微信：`yzglan`
-- 邮箱：`relakkes@gmail.com`
+- 微信：``
+- 邮箱：``
 
 
 ## 📚 参考
 
-- **小红书客户端**：[ReaJason 的 xhs 仓库](https://github.com/ReaJason/xhs)
-- **短信转发**：[SmsForwarder 参考仓库](https://github.com/pppscn/SmsForwarder)
+- **小红书客户端**：[]()
+- **短信转发**：[]()
 - **内网穿透工具**：[ngrok 官方文档](https://ngrok.com/docs/)
 
 
 # 免责声明
-<div id="disclaimer"> 
+<div => 
 
 ## 1. 项目目的与性质
 本项目（以下简称“本项目”）是作为一个技术研究与学习工具而创建的，旨在探索和学习网络数据采集技术。本项目专注于自媒体平台的数据爬取技术研究，旨在提供给学习者和研究者作为技术交流之用。
@@ -296,6 +287,6 @@ python main.py --help
 
 感谢 JetBrains 为本项目提供免费的开源许可证支持！
 
-<a href="https://www.jetbrains.com/?from=MediaCrawler">
-    <img src="https://www.jetbrains.com/company/brand/img/jetbrains_logo.png" width="100" alt="JetBrains" />
+<a =>
+    <img = = = />
 </a>
